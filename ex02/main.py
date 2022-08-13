@@ -18,6 +18,7 @@ int_list = convert_to_int(text)
 print(int_list)
 
 
+
 newArr = []
 for el in int_list:
     if int_list.count(el) == 1:
